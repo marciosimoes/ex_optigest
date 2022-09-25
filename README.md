@@ -1,4 +1,4 @@
-# Exercício Optigest
+### Exercício Optigest
 
 Exercício 1) Os scripts das tabelas se encontram em:
 https://github.com/marciosimoes/ex_optigest/blob/main/db_files/db_script.sql
